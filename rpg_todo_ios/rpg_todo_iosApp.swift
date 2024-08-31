@@ -11,7 +11,8 @@ import SwiftUI
 struct rpg_todo_iosApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FocusView()
         }
     }
+    
 }
